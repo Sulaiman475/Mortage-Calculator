@@ -1,6 +1,6 @@
 # Frontend Mentor - Mortgage repayment calculator
 
-![Design preview for the Mortgage repayment calculator coding challenge](./preview.jpg)
+![Live preview for the Mortgage repayment calculator coding challenge](https://mortage-calculator-frontend.netlify.app/)
 
 ## Welcome! 👋
 
